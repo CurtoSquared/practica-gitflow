@@ -1,2 +1,4 @@
 El objetivo de esta práctica es aplicar los comandos de consola y Git estudiados durante el 
 curso, dominando la gestión de archivos, el ciclo de vida de los cambios, la sincronización con repositorios remotos en GitHub y la metodología estándar de Gitflow integrando las ramas.
+
+Esta es la confirmación de la versión v1.0.0, es momento de hacer commit
