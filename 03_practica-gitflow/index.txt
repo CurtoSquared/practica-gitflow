@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Bienvenido al proyecto de la pratica-gitflow!
+=======
+Esta es la corrección hotfix/error-index. 
+>>>>>>> hotfix/error-index
